@@ -1,10 +1,11 @@
 /*
 * @Author: mtzy
 * @Date:   2017-11-04 10:12:56
-* @Last Modified by:   mtzy
-* @Last Modified time: 2017-11-04 10:29:01
+* @Last Modified by:   cuichuanyou
+* @Last Modified time: 2017-11-06 15:15:15
  *num,element num 点击次数 element 被点击的元素
 */
+
 class PraiseButton{
         constructor(num,element){
              this.num=num;

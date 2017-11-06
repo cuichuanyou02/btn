@@ -9,3 +9,4 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 var f = new _index2.default(0, $(".handle")); 
 
 f.clickAction();
+

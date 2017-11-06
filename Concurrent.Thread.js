@@ -4,6 +4,7 @@
 with ( function(){
 with ( Data ) {
 
+
         return function () {
             var VERSION = '0.0.0';
             var NAMESPACE;
